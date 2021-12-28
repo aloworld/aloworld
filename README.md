@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on some OpenSource projects, but not yet found a project nor the time to invest on it.
 - 📫 How to reach me: alo.world@gmail.com
 
-My profile photo was taken by Fiona Steil-Antoni, when I was playing a chess tournament at Reykjavic Open 2017. I might have lost that game. And, no, I'm not a titled player (hopefully some day).
+My profile photo was taken by Fiona Steil-Antoni, when I was playing a chess tournament at Reykjavic Open 2017. I might have lost that game. And, no, I am not a titled player (hopefully some day).
 <!---
 aloworld/aloworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
