@@ -3,7 +3,7 @@
 - 👀 I’m interested in C#, Swift and SwiftUI, Haskell and Python. 
 -    I'm also interested in machine learning and quantum computing, learning new languages, and chess.
 - 🌱 I’m currently learning SwiftUI.
-- 💞️ I’m looking to collaborate on some OpenSource projects, but not yet found a project nor the time to invest on it.
+- 💞️ I’m looking to collaborate on some OpenSource projects with C#, Rust or Swift.
 - 📫 How to reach me: alo.world@gmail.com
 
 My profile photo was taken by Fiona Steil-Antoni, when I was playing a chess tournament at Reykjavic Open 2017. I might have lost that game. And, no, I am not a titled player (hopefully some day).
