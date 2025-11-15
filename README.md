@@ -1,6 +1,6 @@
 👋 Hi, I’m @aloworld
 
-Day-to-day, I code mostly in C# and SQL.
+Day-to-day, I code mostly in C#, Rust, Python and SQL.
 
 - 👀 I’m really interested in Rust, Swift, and Haskell. 
 -    I'm also interested in machine learning and quantum computing.
